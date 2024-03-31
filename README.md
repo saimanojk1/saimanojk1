@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Sri Sai Manoj Kommineni @saimanojk1
-- 👀 I’m interested in data sceince and web development 
-- 🌱 I’m currently learning docker and kubernetes
+- 👋 Hi, I’m Manoj Kommineni @saimanojk1
+- 👀 I’m interested in data sceince, devops and web development 
+- 🌱 I’m currently learning neovim and tmux
+- 💻 Software Engineer at Cagemini AB (Sweden), consulting to Ericsson AB, Karlskrona, Sweden
 - 📫 How to reach me - Ping me at https://www.linkedin.com/in/kssmanoj/
 
 <!---
